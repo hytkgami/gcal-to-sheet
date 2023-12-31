@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "lint": "biome lint .",
+    "format": "biome format ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.4.1",
+    "@types/google-apps-script": "1.0.78"
+  }
+}
