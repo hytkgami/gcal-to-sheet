@@ -1,10 +1,12 @@
 {
   "scripts": {
     "lint": "biome lint .",
-    "format": "biome format ."
+    "format": "biome format .",
+    "clasp:push": "clasp push"
   },
   "devDependencies": {
     "@biomejs/biome": "1.4.1",
+    "@google/clasp": "2.4.2",
     "@types/google-apps-script": "1.0.78"
   }
 }
